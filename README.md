@@ -1,6 +1,6 @@
 # DTalky
 
-![profile](https://github.com/tretetex/DTalky/blob/master/demo.png?raw=true)
+![demo](https://github.com/tretetex/DTalky/blob/master/img/demo.png?raw=true)
 
 This application allows you to exchange messages. Powered by Nebulas.
 
